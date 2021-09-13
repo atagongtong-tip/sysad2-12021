@@ -15,6 +15,6 @@
     apt: sudo install default-jdk
 
   roles:
-  - name: Change motd
+  - name: Change of motd
     shell: motd Ansible Managed node by atagongtong-tip
 
